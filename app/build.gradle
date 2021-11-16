@@ -6,7 +6,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.rolex.ikshana"
+        applicationId "com.rolex.grateful"
         minSdk 28
         targetSdk 31
         versionCode 1
